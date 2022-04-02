@@ -1,0 +1,11 @@
+E at the end:
+---------------------------------
+it     ------>>>>>>>	  it
+ex: quit -> qwit, bit -> bit
+
+ite    ------>>>>>>>      ait
+ex: quite -> qwait, bite -> bait , breath,breathe ,rat,rate
+
+
+ed at the end:
+---------------------------------
